@@ -7,6 +7,7 @@ body {
     border-radius: 5px;
     font-weight: 700;
     text-decoration: none;
+    padding: 10px 40px;
 }
 
 .text-align {
@@ -14,4 +15,21 @@ body {
     font-size: 40px;
     background-image: url(images/donation9.jpg);
     color: white;
+}
+
+.center-poin {
+    text-align: center;
+}
+
+h1 {
+    font-size: 100px;
+}
+
+#x {
+    width: 40%;
+    margin-left: 10px;
+    margin-right: 10px;
+    border-radius: 5%;
+    padding: 20px;
+    box-shadow: 10px 10px 40px;
 }
